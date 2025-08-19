@@ -1,0 +1,18 @@
+{
+    "name": "com.bsp.path-builder.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cce6d1a8f5bb36d4b98ad41a8b0b5566"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
